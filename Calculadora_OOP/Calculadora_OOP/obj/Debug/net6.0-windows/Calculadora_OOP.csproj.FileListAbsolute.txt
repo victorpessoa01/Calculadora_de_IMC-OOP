@@ -1,0 +1,17 @@
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\bin\Debug\net6.0-windows\Calculadora_OOP.exe
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\bin\Debug\net6.0-windows\Calculadora_OOP.deps.json
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\bin\Debug\net6.0-windows\Calculadora_OOP.runtimeconfig.json
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\bin\Debug\net6.0-windows\Calculadora_OOP.dll
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\bin\Debug\net6.0-windows\Calculadora_OOP.pdb
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.Form1.resources
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.dll
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\refint\Calculadora_OOP.dll
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.pdb
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\Calculadora_OOP.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Jose Victor\Calculadora_OOP\Calculadora_OOP\obj\Debug\net6.0-windows\ref\Calculadora_OOP.dll
